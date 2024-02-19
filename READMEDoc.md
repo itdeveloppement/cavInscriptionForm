@@ -30,11 +30,5 @@
   - lancer serveur local wamp
   - lancer dans le dossier racine du projet : php artisan serve
   
-  # Parametrage du code entyre local et serveur distant
+  # Parametrage du code entre local et serveur distant
   modification de l'url fetsh dans showData
-  - locan http://localhost:8001/api....
-  - distant : http://outdoor.cigaleaventure.com/cavInscriptionForm/public/api
-
-# CORRECTIONS REALISEES AVANT TRANSFERT SUR SITE GROUND
-
-- M
